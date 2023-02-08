@@ -1,0 +1,5 @@
+fig*
+run_script.sh
+output.out
+more/*
+__pycache__/*
